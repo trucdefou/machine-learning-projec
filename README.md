@@ -18,7 +18,7 @@ A través de este proyecto, se tiene como objetivo seleccionar un dataset para e
 
 ## Resúmenes
 
-### EDA 1
+### [EDA 1](https://www.kaggle.com/datasets/ziya07/plant-health-data)
 
 Del EDA, se puede destacar lo siguiente
 
@@ -27,7 +27,7 @@ Del EDA, se puede destacar lo siguiente
 - No Existen correlaciones fuertes 
 - Las variables más importantes se encuentran en las columnas Moisure y Nitrogen Level
 
-### EDA 2
+### [EDA 2](https://www.kaggle.com/datasets/stephenyulinchen/epl-2425-data/data)
 
 Del EDA, se puede destacar lo siguiente
 
@@ -63,7 +63,7 @@ Luego también ligeras correlaciones entre
 
 - AS - AC
 
-### EDA 3
+### [EDA 3](https://www.kaggle.com/datasets/willianoliveiragibin/market-sales-data/data)
 
 Del EDA, se puede destacar lo siguiente
 
@@ -71,7 +71,7 @@ Del EDA, se puede destacar lo siguiente
 - Existen correlaciones
 - Existen valores anómalos
 
-### EDA 4
+### [EDA 4](https://www.kaggle.com/datasets/willianoliveiragibin/top-12-german-companies)
 
 Del EDA, se puede destacar lo siguiente
 
